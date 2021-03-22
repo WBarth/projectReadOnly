@@ -3,6 +3,6 @@ Kommando aus:
 
 > aptitude install haskell-platform
 
-Zum Deinstallieren unter Windows
+Zum Deinstallieren der Haskell Plattform:
 
-> Alt + F4
+> aptitude unistall haskell-platform
